@@ -9,7 +9,6 @@ The model consists of the following components:
 
 - **Classical LSTM:** A standard LSTM layer to capture temporal dependencies in the stock price data.
 - **Quantum Layer:** A variational quantum circuit implemented using PennyLane, acting as a non-linear transformation layer.
-- **Classical Dense Layer:** A fully connected layer to produce the final stock price prediction.
 
 ## Requirements
 
